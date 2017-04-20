@@ -1,4 +1,5 @@
-- name: master-test
-  provider: google
-  account: lucid-timing-151005
-  src: master.yaml
+- Account: kl-demo3
+  MasterIP: ""
+  Name: master-test
+  Provider: google
+  Src: master.yaml
